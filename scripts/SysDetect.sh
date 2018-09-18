@@ -22,6 +22,7 @@ else
                         echo
                         sudo bash debian_prerequis.sh
                         sudo bash compileApache.sh
+                        sudo bash compilePhp.sh
                 fi
         fi
 fi
